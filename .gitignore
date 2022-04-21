@@ -1,0 +1,4 @@
+#忽略 git.css文件
+git.css
+#忽略 test文件里的所有内容
+test/
